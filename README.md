@@ -1,5 +1,5 @@
 
-## Nextjs Project:
+## React / Node Project:
 
 - This is a widget that can be used in your webpage to get feedbacks.
 
